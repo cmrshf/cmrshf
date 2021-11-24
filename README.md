@@ -38,14 +38,14 @@
 <br>
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<a href="https://github.com/cmrshf">
+  &nbsp;<img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
+</a>
 <a href="https://www.linkedin.com/in/cmrshf">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  &nbsp;<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="https://www.twitter.com/cmrshf">
-  &emsp;<img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
-</a>
-<a href="https://www.github.com/cmrshf">
-  &emsp;<img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+<a href="https://twitter.com/cmrshf">
+  &nbsp;<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/>
 </a>
 
 <br><br>
