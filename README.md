@@ -6,10 +6,9 @@
   </em>
   <br>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /><b><i>Learning while HOPING & HUSTLING!</i></b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-  <br>
-  <img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <br><br>
+  <img width=300px src="https://user-images.githubusercontent.com/81617930/147385426-f67eb10e-efb9-4722-80fe-49370f1d0e91.gif" />
 </p>
-
 <br>
 
 <h2> Streak Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
