@@ -31,8 +31,6 @@
 
 <hr>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=cmrshf&theme=gruvbox&hide_border=true&area=true)
-
 <br>
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
