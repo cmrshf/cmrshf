@@ -6,8 +6,6 @@
   </em>
   <br>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /><b><i>Learning while HOPING & HUSTLING!</i></b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-  <br><br>
-  <img width=300px src="https://user-images.githubusercontent.com/81617930/147385426-f67eb10e-efb9-4722-80fe-49370f1d0e91.gif" />
 </p>
 <br>
 
