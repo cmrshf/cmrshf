@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> You can call me Cica 🧕 </h1>
 
-<p align="center">
+//<p align="center">
   <em>
-    I am a final year student majoring in Information Systems. As a data enthusiast, I am familiar using SQL, R, and Python with libraries like pandas, numpy, scikit-learn, and tensorflow. I have attended several training programs or bootcamps focused on Data Science.
+    ...
   </em>
   <br>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /><b><i>Learning while HOPING & HUSTLING!</i></b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </p>
-<br>
+<br>//
 
 ![](https://komarev.com/ghpvc/?username=cmrshf&style=plastic&label=PROFILE+VIEWS&color=orange)
